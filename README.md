@@ -39,11 +39,8 @@ post-answer-no = 5
 
 == Screenshots ==
 
-Bootstrap Example:
-[Poll Collector Bootstrap example](/assets/screenshot-post-bootstrap.png)
-
-Twenty Fourteen Example:
-[Poll Collector Twenty Fourteen example](/assets/screenshot-post-2014.png)
+1. screenshot-post-bootstrap.png
+2. screenshot-post-2014.png
 
 == Changelog ==
 
