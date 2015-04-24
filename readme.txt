@@ -37,11 +37,6 @@ poll-answer-yes = 10
 post-answer-no = 5
 `
 
-== Screenshots ==
-
-1. screenshot-post-bootstrap.png
-2. screenshot-post-2014.png
-
 == Changelog ==
 
 = 1.0.1 =
