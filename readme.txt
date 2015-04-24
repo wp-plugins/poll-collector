@@ -37,6 +37,14 @@ poll-answer-yes = 10
 post-answer-no = 5
 `
 
+== Screenshots ==
+
+1. The included builder to make it easy to create shortcodes.
+2. What a shortcode looks like in one of your posts or pages.
+3. A poll on a page that supports bootstrap.
+4. A very stylized example of a poll in the Twenty Fourteen theme.
+5. The admin panel where you can add all your templates.
+
 == Changelog ==
 
 = 1.0.1 =
