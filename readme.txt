@@ -18,12 +18,12 @@ Poll Collector uses shortcodes. To create a poll, create a shortcode as directed
 == Installation ==
 
 1. Install the plugin.
-1. Go to the plugin settings by visiting Settings > Poll Collector in your WordPress admin. [Poll Collector settings page](/assets/screenshot-settings.png)
+1. Go to the plugin settings by visiting Settings > Poll Collector in your WordPress admin. [Poll Collector settings page](https://raw.githubusercontent.com/gelform/poll-collector-wordpress-plugin/master/poll-collector/img/screenshot-settings.png)
 1. Update the template html you would like rendered to your pages or posts. (The default templates will render nicely on sites using Bootstrap 
 1. Change any settings you'd like.
-1. Visit the Builder page for help building a shortcode (or follow the guide below and create your own). The builder shows you how to define the poll answers, and whether a poll is open (visitors can vote) or closed. [Poll Collector builder page](/assets/screenshot-builder.png)
-1. Copy the shortcode and paste it in your post or page. Then save your post or page. [Poll Collector shortcode example](/assets/screenshot-admin-shortcode.png)
-1. Visit your post or page, and you should see your poll! [Poll Collector Bootstrap example](/assets/screenshot-post-bootstrap.png)
+1. Visit the Builder page for help building a shortcode (or follow the guide below and create your own). The builder shows you how to define the poll answers, and whether a poll is open (visitors can vote) or closed. [Poll Collector builder page](https://raw.githubusercontent.com/gelform/poll-collector-wordpress-plugin/master/poll-collector/img/screenshot-builder.png)
+1. Copy the shortcode and paste it in your post or page. Then save your post or page. [Poll Collector shortcode example](https://raw.githubusercontent.com/gelform/poll-collector-wordpress-plugin/master/poll-collector/img/screenshot-admin-shortcode.png)
+1. Visit your post or page, and you should see your poll! [Poll Collector Bootstrap example](https://raw.githubusercontent.com/gelform/poll-collector-wordpress-plugin/master/poll-collector/img/screenshot-post-bootstrap.png)
 
 == Frequently Asked Questions ==
 
