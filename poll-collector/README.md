@@ -18,12 +18,12 @@ Poll Collector uses shortcodes. To create a poll, create a shortcode as directed
 == Installation ==
 
 1. Install the plugin.
-1. Go to the plugin settings by visiting Settings > Poll Collector in your WordPress admin. [Poll Collector settings page](/poll-collector/poll-collector/img/screenshot-settings.png)
+1. Go to the plugin settings by visiting Settings > Poll Collector in your WordPress admin. [Poll Collector settings page](ƒ/trunk/poll-collector/img/screenshot-settings.png)
 1. Update the template html you would like rendered to your pages or posts. (The default templates will render nicely on sites using Bootstrap 
 1. Change any settings you'd like.
-1. Visit the Builder page for help building a shortcode (or follow the guide below and create your own). The builder shows you how to define the poll answers, and whether a poll is open (visitors can vote) or closed. [Poll Collector builder page](/poll-collector/poll-collector/img/screenshot-builder.png)
-1. Copy the shortcode and paste it in your post or page. Then save your post or page. [Poll Collector shortcode example](/poll-collector/poll-collector/img/screenshot-admin-shortcode.png)
-1. Visit your post or page, and you should see your poll! [Poll Collector Bootstrap example](/poll-collector/poll-collector/img/screenshot-post-bootstrap.png)
+1. Visit the Builder page for help building a shortcode (or follow the guide below and create your own). The builder shows you how to define the poll answers, and whether a poll is open (visitors can vote) or closed. [Poll Collector builder page](/trunk/poll-collector/img/screenshot-builder.png)
+1. Copy the shortcode and paste it in your post or page. Then save your post or page. [Poll Collector shortcode example](/trunk/poll-collector/img/screenshot-admin-shortcode.png)
+1. Visit your post or page, and you should see your poll! [Poll Collector Bootstrap example](/trunk/poll-collector/img/screenshot-post-bootstrap.png)
 
 == Frequently Asked Questions ==
 
@@ -40,10 +40,10 @@ post-answer-no = 5
 == Screenshots ==
 
 Bootstrap Example:
-[Poll Collector Bootstrap example](/poll-collector/poll-collector/img/screenshot-post-bootstrap.png)
+[Poll Collector Bootstrap example](/trunk/poll-collector/img/screenshot-post-bootstrap.png)
 
 Twenty Fourteen Example:
-[Poll Collector Twenty Fourteen example](/poll-collector/poll-collector/img/screenshot-post-2014.png)
+[Poll Collector Twenty Fourteen example](/trunk/poll-collector/img/screenshot-post-2014.png)
 
 == Changelog ==
 
